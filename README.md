@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/react-logo.png" width="500px" height="500px"/>
+    <img src="images/react-icon.png" width="500px" height="500px"/>
 </p>
 
 ## What is React?
