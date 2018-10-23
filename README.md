@@ -1,1 +1,6 @@
-# react-basics
+<p align="center">
+    <img src="images/react-logo.png" width="500px" height="500px"/>
+</p>
+
+## What is React?
+    React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
