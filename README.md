@@ -10,7 +10,7 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 ### Prerequisite
 ```
 ├──> Node 8.10.0 or later version installed in your system
-├──> Basic knowledge of HTML and CSS
+├──> Basic knowledge of HTML, CSS and JavaScript
 ```
 
 ```
